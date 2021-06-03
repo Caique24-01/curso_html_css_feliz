@@ -1,0 +1,4 @@
+/* RESET CSS -> USADO PARA REMOVER o estilo pré definido pelo browser*/
+body, h1, h2, h3{
+    margin: 0;
+} 
